@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dodojordi
 - 👀 I’m interested in football.
-- 🌱 I’m currently learning crowd_counting.
+- 🌱 I’m currently learning Crowd_Counting.
 - 💞️ I’m looking to collaborate on anything interesting.
-- 📫 How to reach me :---
+- 📫 How to reach me : ---
 - 😄 Pronouns: ---
 - ⚡ Fun fact: ---
 
